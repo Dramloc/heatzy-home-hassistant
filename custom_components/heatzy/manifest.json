@@ -1,0 +1,10 @@
+{
+  "domain": "heatzy",
+  "name": "Heatzy",
+  "documentation": "https://github.com/devotics/heatzy-home-hassistant",
+  "dependencies": [],
+  "config_flow": true,
+  "codeowners": ["@dramloc"],
+  "requirements": [],
+  "homeassistant": "0.96.0"
+}
